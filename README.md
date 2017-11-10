@@ -1,11 +1,10 @@
-<<<<<<< HEAD
-# test
+this is my project "orderMS"
+my phone: 17376861817
+my name: wu jinyong
+         吴锦勇
+my email: 381496416@qq.com	
+	 
 
-> 1.1.0
-
-## Build Setup
-
-``` bash
 # install dependencies
 npm install
 
@@ -15,12 +14,3 @@ npm run dev
 # build for production with minification
 npm run build
 
-# build for production and view the bundle analyzer report
-npm run build --report
-```
-
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
-=======
-# orderMS
-this is my orderMS
->>>>>>> f514ef5db53ff7e4673e6ccb7ef14326a42152b3
