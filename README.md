@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # test
 
 > 1.1.0
@@ -19,3 +20,7 @@ npm run build --report
 ```
 
 For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+=======
+# orderMS
+this is my orderMS
+>>>>>>> f514ef5db53ff7e4673e6ccb7ef14326a42152b3
